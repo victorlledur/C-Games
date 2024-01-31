@@ -1,0 +1,12 @@
+﻿  Engine.cpp
+  FPSCounter.cpp
+C:\Users\usuario\Desktop\Projetos\C++Games\Aulas\Lab07\FPSCounter\FPSCounter\FPSCounter.cpp(82,61): warning C4129: 'l': sequência de escape de caractere não reconhecida
+  Game.cpp
+  Graphics.cpp
+  Timer.cpp
+  Window.cpp
+  Gerando código
+  Previous IPDB not found, fall back to full compilation.
+  All 185 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finalizada a geração de código
+  FPSCounter.vcxproj -> C:\Users\usuario\Desktop\Projetos\C++Games\Aulas\Lab07\FPSCounter\x64\Release\FPSCounter.exe

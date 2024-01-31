@@ -1,0 +1,17 @@
+﻿  compilation object save succeeded; see C:\Users\usuario\Desktop\Projetos\C++Games\Aulas\Lab08\FroggerDemo\FroggerDemo\Shaders\Pixel.cso
+  compilation object save succeeded; see C:\Users\usuario\Desktop\Projetos\C++Games\Aulas\Lab08\FroggerDemo\FroggerDemo\Shaders\Vertex.cso
+  Engine.cpp
+  Frogger.cpp
+  FroggerDemo.cpp
+  Game.cpp
+  Graphics.cpp
+  Image.cpp
+  Object.cpp
+  Obstacle.cpp
+  Renderer.cpp
+  Sprite.cpp
+  Texture.cpp
+  Timer.cpp
+  Window.cpp
+  Gerando Código...
+  FroggerDemo.vcxproj -> C:\Users\usuario\Desktop\Projetos\C++Games\Aulas\Lab08\FroggerDemo\x64\Debug\FroggerDemo.exe

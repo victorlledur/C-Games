@@ -1,0 +1,14 @@
+﻿  compilation object save succeeded; see C:\Users\usuario\Desktop\Projetos\C++Games\Aulas\Lab08\SpriteDemo\SpriteDemo\Shaders\Pixel.cso
+  compilation object save succeeded; see C:\Users\usuario\Desktop\Projetos\C++Games\Aulas\Lab08\SpriteDemo\SpriteDemo\Shaders\Vertex.cso
+  Engine.cpp
+  Game.cpp
+  Graphics.cpp
+  Image.cpp
+  Renderer.cpp
+  Sprite.cpp
+  SpriteDemo.cpp
+  Texture.cpp
+  Timer.cpp
+  Window.cpp
+  Gerando Código...
+  SpriteDemo.vcxproj -> C:\Users\usuario\Desktop\Projetos\C++Games\Aulas\Lab08\SpriteDemo\x64\Debug\SpriteDemo.exe
